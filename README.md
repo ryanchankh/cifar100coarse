@@ -39,3 +39,7 @@ superclass = [['beaver', 'dolphin', 'otter', 'seal', 'whale'],
               ['bicycle', 'bus', 'motorcycle', 'pickup_truck', 'train'],
               ['lawn_mower', 'rocket', 'streetcar', 'tank', 'tractor']]
 ```
+
+
+### Reference
+CIFAR10/100 website: `https://www.cs.toronto.edu/~kriz/cifar.html` 
